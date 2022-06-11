@@ -61,11 +61,14 @@ a {
 .heading-1 {
     font-size: 48px;
     color: var(--high-contrast-white);
+    margin-bottom: 0;
 }
 
 .paragraph {
     font-size: 18px;
     color: var(--low-contrast-white);
+    margin-top: 0;
+    margin-bottom: 10px;
 }
 
 .img {
