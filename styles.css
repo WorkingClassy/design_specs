@@ -55,11 +55,11 @@ a {
 .flex-container--vertical {
     display: flex;
     flex-direction: column;
+    width: 460px;
 }
 
 .heading-1 {
     font-size: 48px;
-    font-weight: extra-bold;
     color: var(--high-contrast-white);
 }
 
