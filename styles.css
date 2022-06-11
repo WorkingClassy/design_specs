@@ -13,3 +13,12 @@ body {
     font-family: Roboto, Arial;
     align-items: center;
 }
+
+.header {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-container {
+    display: flex;
+}
