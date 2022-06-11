@@ -52,6 +52,10 @@ a {
     font-size: 18px;
 }
 
+.flex-container--hero {
+    margin: 20px;
+}
+
 .flex-container--vertical {
     display: flex;
     flex-direction: column;
@@ -85,4 +89,5 @@ a {
 .img {
     width: 520px;
     height: 237px;
+    margin-top: 20px
 }
