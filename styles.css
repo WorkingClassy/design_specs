@@ -58,5 +58,17 @@ a {
 }
 
 .heading-1 {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: var(--high-contrast-white);
+}
 
+.paragraph {
+    font-size: 18px;
+    color: var(--low-contrast-white);
+}
+
+.img {
+    width: 520px;
+    height: 237px;
 }
