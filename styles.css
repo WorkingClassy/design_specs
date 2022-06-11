@@ -71,6 +71,17 @@ a {
     margin-bottom: 10px;
 }
 
+.button {
+    width: 128px;
+    padding: 10px;
+    border-style: none;
+    border-radius: 10px;
+    font-size: 16px;
+    background-color: var(--light-blue);
+    color: var(--high-contrast-white);
+    font-weight: bolder;
+}
+
 .img {
     width: 520px;
     height: 237px;
