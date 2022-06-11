@@ -21,10 +21,12 @@ body {
 
 .flex-container {
     display: flex;
+    justify-content: space-around;
 }
 
 .nav {
-    
+    display: flex;
+    align-items: center;
 }
 
 ul {
@@ -32,4 +34,5 @@ ul {
     margin: 0;
     padding: 0;
     list-style: none;
+    gap: 20px;
 }
