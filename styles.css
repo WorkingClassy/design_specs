@@ -12,6 +12,7 @@ body {
     flex-direction: column;
     font-family: Roboto, Arial;
     align-items: center;
+    margin: 0;
 }
 
 .header {
@@ -27,6 +28,7 @@ body {
 
 .logo {
     color: var(--high-contrast-white);
+    font-size: 24px;
 }
 
 .nav {
@@ -40,4 +42,10 @@ ul {
     padding: 0;
     list-style: none;
     gap: 20px;
+}
+
+a {
+    color: var(--low-contrast-white);
+    text-decoration: none;
+    font-size: 18px;
 }
