@@ -17,11 +17,16 @@ body {
 .header {
     display: flex;
     flex-direction: column;
+    background-color: var(--dark-blue);
 }
 
 .flex-container {
     display: flex;
     justify-content: space-around;
+}
+
+.logo {
+    color: var(--high-contrast-white);
 }
 
 .nav {
