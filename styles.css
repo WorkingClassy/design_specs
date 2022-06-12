@@ -121,3 +121,7 @@ a {
 .paragraph--gray {
     color: var(--dark-blue);
 }
+
+.section--gray {
+    background-color: var(--low-contrast-white);
+}
