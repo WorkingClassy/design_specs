@@ -99,6 +99,7 @@ a {
 .heading-2 {
     font-size: 36px;
     color: var(--dark-blue);
+    margin-bottom: 50px;
 }
 
 .block-container {
