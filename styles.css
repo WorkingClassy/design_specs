@@ -132,3 +132,10 @@ a {
     background-color: var(--low-contrast-white);
     height: 425px;
 }
+
+.blockquote__paragraph {
+    font-size: 36px;
+    font-style: italic;
+    color: var(--dark-blue);
+    text-align: left;
+}
