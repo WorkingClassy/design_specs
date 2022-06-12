@@ -97,7 +97,8 @@ a {
 }
 
 .flex-container--info {
-    
+    justify-content: center;
+    gap: 20px;
 }
 
 .heading-2 {
