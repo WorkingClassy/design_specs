@@ -95,3 +95,8 @@ a {
 .section {
     text-align: center;
 }
+
+.heading-2 {
+    font-size: 36px;
+    color: var(--dark-blue);
+}
