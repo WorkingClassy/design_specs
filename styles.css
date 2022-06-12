@@ -92,6 +92,12 @@ a {
     margin-top: 20px
 }
 
+.main {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
 .section {
     text-align: center;
     height: 500px;
