@@ -137,6 +137,7 @@ a {
     height: 500px;
     align-items: center;
     justify-content: center;
+    margin: 0;
 }
 
 .blockquote__paragraph {
@@ -145,6 +146,7 @@ a {
     color: var(--dark-blue);
     text-align: left;
     width: 790px;
+    margin: 0;
 }
 
 .blockquote__name {
@@ -152,4 +154,5 @@ a {
     font-weight: bold;
     color: var(--dark-blue);
     text-align: right;
+    margin-top: 0;
 }
