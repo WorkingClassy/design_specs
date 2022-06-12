@@ -101,6 +101,10 @@ a {
     color: var(--dark-blue);
 }
 
+.block-container {
+    width: 200px;
+}
+
 .img--blue-border {
     
 }
