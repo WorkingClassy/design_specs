@@ -96,6 +96,10 @@ a {
     text-align: center;
 }
 
+.flex-container--info {
+    
+}
+
 .heading-2 {
     font-size: 36px;
     color: var(--dark-blue);
