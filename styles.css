@@ -131,11 +131,20 @@ a {
     height: 425px;
 }
 
+.blockquote {
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    align-items: center;
+    justify-content: center;
+}
+
 .blockquote__paragraph {
     font-size: 36px;
     font-style: italic;
     color: var(--dark-blue);
     text-align: left;
+    width: 790px;
 }
 
 .blockquote__name {
