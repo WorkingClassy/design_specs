@@ -169,16 +169,30 @@ a {
     height:150px;
     width: 1020px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     background-color: var(--light-blue);
     border-radius: 10px;
+}
+
+.flex-container--vertical-call-to-action {
+    justify-content: center;
+    width: 500px;
 }
 
 .heading-3 {
     color: var(--high-contrast-white);
     font-size: 24px;
+    margin: 0;
+    text-align: left;   
 }
 
 .paragraph {
+    margin-top: 0;
+    text-align: left;
+}
 
+.button--white-border {
+    border: 2px solid var(--high-contrast-white);
+    height: fit-content;
+    align-self: center;
 }
