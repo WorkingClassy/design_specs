@@ -174,3 +174,10 @@ a {
     border-radius: 10px;
 }
 
+.heading-3 {
+    color: var(--high-contrast-white);
+}
+
+.paragraph {
+    color: var(--high-contrast-white);
+}
