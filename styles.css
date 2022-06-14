@@ -170,4 +170,7 @@ a {
     width: 1020px;
     display: flex;
     justify-content: space-between;
+    background-color: var(--light-blue);
+    border-radius: 10px;
 }
+
