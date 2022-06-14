@@ -176,8 +176,9 @@ a {
 
 .heading-3 {
     color: var(--high-contrast-white);
+    font-size: 24px;
 }
 
 .paragraph {
-    color: var(--high-contrast-white);
+
 }
