@@ -196,3 +196,15 @@ a {
     height: fit-content;
     align-self: center;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background-color: var(--dark-blue);
+}
+
+.paragraph--footer {
+    color: var(--high-contrast-white);
+}
